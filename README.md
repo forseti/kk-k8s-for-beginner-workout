@@ -1,2 +1,2 @@
 # kk-k8s-for-beginner-workout
-Cheat sheet for Kubernetes for the Absolute Beginners – Hands-on Tutorial
+This repo contains useful notes from https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on/
